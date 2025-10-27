@@ -26,7 +26,7 @@ Exibe o formulário de cadastro de alunos com o tema de Hogwarts, incluindo elem
 🧾 **Envio do formulário:**
 Demonstra a interação do usuário ao preencher e submeter o cadastro, exibindo o processo concluído com sucesso.
 
-<img src="https://i.imgur.com/943HjBg.gif" alt="Cadastro efetuado com sucesso" width="600">
+<img src="https://i.imgur.com/hkir1J2.gif" alt="Cadastro efetuado com sucesso" width="600">
 
 --- 
 
