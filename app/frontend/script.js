@@ -44,7 +44,7 @@ form.addEventListener('submit', (event) => {
     }
 
     // Fazer uma solicitação AJAX para o servidor Flask
-    fetch('http://172.19.125.250/cadastro', {
+    fetch('http://35.94.119.249/cadastro', {
             method: 'POST',
             body: JSON.stringify(dados),
             headers: {
