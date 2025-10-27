@@ -21,12 +21,12 @@ Para personalizar a experiência, o frontend foi completamente **estilizado com 
 
 📸 **Tela inicial:**
 Exibe o formulário de cadastro de alunos com o tema de Hogwarts, incluindo elementos visuais inspirados no universo de Harry Potter.
-<img src="./screenshots/preview.png" alt="Prévia do Cadastro de Alunos" width="600">
+<img src="https://i.imgur.com/kAwkWtI.png" alt="Prévia do Cadastro de Alunos" width="600">
 
 🧾 **Envio do formulário:**
 Demonstra a interação do usuário ao preencher e submeter o cadastro, exibindo o processo concluído com sucesso.
 
-<img src="https://i.imgur.com/hkir1J2.gif" alt="Cadastro efetuado com sucesso" width="600">
+<img src="https://i.imgur.com/943HjBg.gif" alt="Cadastro efetuado com sucesso" width="600">
 
 --- 
 
